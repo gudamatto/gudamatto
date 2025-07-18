@@ -74,7 +74,7 @@ Indexes · Lock's · Execution Plan · DMV’s
 ### 🗺️ Contribuições para Comunidade:
 
 - 🔧 [**Microsoft SQL Server - Performances**](https://github.com/gudamatto/SQLPerformances): Scripts gerais para Análise Administrativa e Performance tuning.
-- 🧩 [**Data Engineer - Google's Data Cloud**](https://github.com/gudamatto/GCP): Scripts (Data) Simulação de dados (Event/Api) Streaming; Export Data Spanner, Job's (yaml).
+- 🧩 [**Data Engineer - Google's Data Cloud**](https://github.com/gudamatto/GCP): Scripts para simulação de dados (Event/Api) Streaming; Export Data Spanner; Job(yaml).
 
 ---
 
