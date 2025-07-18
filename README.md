@@ -73,8 +73,8 @@ Indexes · Lock's · Execution Plan · DMV’s
 ---
 ### 🗺️ Contribuições para Comunidade:
 
-- 🔧 [**SQLPerformances**](https://github.com/gudamatto/SQLPerformances): Scripts avançados de tuning e análise de performance em SQL Server.
-- 🧩 [**SQLScripts-master**](https://github.com/gudamatto/SQLScripts-master): Coleção de scripts SQL organizados para tarefas diárias, otimização e administração de banco de dados.
+- 🔧 [**Microsoft SQL Server - Performances**](https://github.com/gudamatto/SQLPerformances): Scripts gerais para Análise Administrativa e Performance tuning.
+- 🧩 [**Data Engineer - Google's Data Cloud**](https://github.com/gudamatto/GCP): Scripts (Data) Simulação de dados (Event/Api) Streaming; Export Data Spanner, Job's (yaml).
 
 ---
 
