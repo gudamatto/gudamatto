@@ -27,9 +27,10 @@
 
 Trabalho atualmente em projetos no Mercado Financeiro - Investimentos. 
 
-<br>Projetos Open Finance - Arquitetura e streaming (API/Event)
-<br>Projetos Integrações - Vila de Investimento & Canais 
-<br>Projetos Investimentos Corretora CINV (Alta Renda & Plataforma) 
+<br>Projetos Open Finance - Arquitetura, pipelines, streaming de dados (API/Event) e CI/CD;
+<br>Projetos Integrações - Investimento & Canais 
+<br>Projetos Google Data Analytics GA4 360 (Looker Studio - BI)
+<br>Projetos Investimentos Corretoras (Alta Renda & Plataformas)
 Arquitetura de dados, modelagem e gestão de ambientes.
 
 ERP Contabil (SEFAZ - NF/e - CNab - SPED) Tributario.
