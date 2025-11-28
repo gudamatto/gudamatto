@@ -40,7 +40,7 @@ ERP Contabil (SEFAZ - NF/e - CNab - SPED) Tributario.
 
 - 🔧 [**Microsoft SQL Server - Performances**](https://github.com/gudamatto/SQLPerformances): Scripts gerais para Análise Administrativa e Performance tuning.
 - 🧩 [**Data Engineer - Google's Data Cloud**](https://github.com/gudamatto/google-gcp): Scripts para simulação de dados (Event/Api) Streaming; Export Data Spanner; Job(yaml).
-- 📊 [**Arquitetura Open Finance - Lakehouse**]([https://github.com/gudamatto/google-gcp](https://github.com/gudamatto/openfinance_brasil)): Projeto Databricks-br, eventos e analises entre Instituições Financeiras
+- 📊 [**Arquitetura Open Finance - Lakehouse**](https://github.com/gudamatto/openfinance_brasil): Projeto Databricks-br, eventos e analises entre Instituições Financeiras
 ---
 
 ⚙️**Architecture | Engineer**
