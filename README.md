@@ -36,7 +36,7 @@ Arquitetura de dados, modelagem e gestão de ambientes.
 ERP Contabil (SEFAZ - NF/e - CNab - SPED) Tributario.
 
 ---
-### 🗺️ Contribuições para Comunidade:
+### 🗺️ Comunidade de Dados:
 
 - 🔧 [**Microsoft SQL Server - Performances**](https://github.com/gudamatto/SQLPerformances): Scripts gerais para Análise Administrativa e Performance tuning.
 - 🧩 [**Data Engineer - Google's Data Cloud**](https://github.com/gudamatto/google-gcp): Scripts para simulação de dados (Event/Api) Streaming; Export Data Spanner; Job(yaml).
