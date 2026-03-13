@@ -28,6 +28,7 @@
 Trabalho atualmente em projetos no Mercado Financeiro - Investimentos. 
 
 <br>Projetos Open Finance - Arquitetura, pipelines, streaming de dados (API/Event) e CI/CD;
+<br>Projeto Refactoring - Migração Hive/Hadoop (Cloudera) para Databricks (Workflows & Pipelines)
 <br>Projetos Integrações - Investimento & Canais 
 <br>Projetos Google Data Analytics GA4 360 (Looker Studio - BI)
 <br>Projetos Investimentos Corretoras (Alta Renda & Plataformas)
